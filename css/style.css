@@ -113,11 +113,17 @@ ul{
 }
 .concept__title {
     text-transform: uppercase;
-    color: #F402A2
+    color: #F402A2;
+    margin-bottom: 20px;
+    font-size: 18px;
+    font-family: 'Corporate-A-Bold';
 }
 .section__title {
 }
 .concept__text {
+    font-size: 24px;
+    margin-bottom: 25px;
+    line-height: 120%;
 }
 .concept__img {
 }

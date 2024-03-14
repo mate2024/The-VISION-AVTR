@@ -127,6 +127,25 @@ ul{
 }
 .concept__img {
 }
+/**********premier**********/
+.premier {
+    margin: 150px 0;
+}
+.container {
+}
+.premier__inner {
+    display: flex;
+    gap: 60px;
+}
+.premier__column {
+}
+.section__title {
+    margin-bottom: 25px;
+}
+.premier__text {
+}
+.premier__img {
+}
 /**********Footer***********/
 .footer__inner{
     display: flex;
